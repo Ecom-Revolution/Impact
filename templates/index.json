@@ -15,7 +15,6 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/DSC07627ddss.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -36,7 +35,6 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/DSC07627ddaa.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -162,15 +160,15 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "Promotion text",
+        "text": "SIDR MALIKI YEMENI",
         "text_size": "large",
         "text_style": "fill",
         "scrolling_mode": "auto",
-        "scrolling_speed": 5,
+        "scrolling_speed": 14,
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "text_gradient": ""
+        "text_gradient": "radial-gradient(rgba(162, 119, 66, 1), rgba(255, 204, 75, 1) 66%)"
       }
     },
     "collection-list": {
