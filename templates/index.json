@@ -534,8 +534,8 @@
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "title": "F.A.Q's",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "",
         "answer_time": "",
