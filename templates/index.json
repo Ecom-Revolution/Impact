@@ -15,19 +15,20 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_10_sept._2025_a_00_40_01.png",
             "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
+            "mobile_text_position": "place-self-center-start text-start",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
-            "heading_tag": "h0",
+            "subheading": "",
+            "title": "Tous droit venu du Yemen",
+            "heading_tag": "h3",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 40,
             "background": "",
             "background_gradient": ""
           }
@@ -93,6 +94,7 @@
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_10_sept._2025_a_00_40_01.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -105,6 +107,7 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_10_sept._2025_a_00_38_05.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -114,33 +117,10 @@
             "overlay_opacity": 0
           }
         },
-        "1664424046b00c932c-2": {
+        "item_LV3wyb": {
           "type": "item",
           "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-3": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
-          "type": "item",
-          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_10_sept._2025_00_14_15.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -154,9 +134,7 @@
       "block_order": [
         "1664424046b00c932c-0",
         "1664424046b00c932c-1",
-        "1664424046b00c932c-2",
-        "1664424046b00c932c-3",
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
+        "item_LV3wyb"
       ],
       "settings": {
         "full_width": false,
@@ -185,7 +163,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "subheading": "",
-        "title": "Featured collection",
+        "title": "Notre Collection",
         "content": "",
         "link_url": "",
         "link_text": "View all",
@@ -343,6 +321,8 @@
         "subheading": "",
         "title": "Avant / Après",
         "content": "",
+        "before_image": "shopify://shop_images/ChatGPT_Image_10_sept._2025_a_00_38_05.png",
+        "after_image": "shopify://shop_images/ChatGPT_Image_10_sept._2025_a_00_40_01.png",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
