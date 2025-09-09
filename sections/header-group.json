@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Pour renforcer votre corps",
+            "url": ""
+          }
+        },
+        "message_KYKkVb": {
+          "type": "message",
+          "settings": {
+            "text": "un trésor venu du yémen",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_KYKkVb"
       ],
       "settings": {
         "enable_sticky": true,
