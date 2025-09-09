@@ -35,19 +35,21 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "image": "shopify://shop_images/ChatGPT_Image_10_sept._2025_00_14_15.png",
+            "mobile_image": "shopify://shop_images/ChatGPT_Image_10_sept._2025_00_14_15.png",
+            "content_max_width": 1200,
+            "mobile_text_position": "place-self-center-start text-start",
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
             "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
+            "title": "Tous droit venu du Yemen",
+            "heading_tag": "h3",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 55,
             "background": "",
             "background_gradient": ""
           }
@@ -68,6 +70,21 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "SIDR MALIKI YEMENI",
+        "text_size": "large",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 14,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": "radial-gradient(rgba(162, 119, 66, 1), rgba(217, 194, 132, 1) 66%)"
       }
     },
     "image-link-blocks": {
@@ -156,90 +173,6 @@
         "heading_gradient": ""
       }
     },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "SIDR MALIKI YEMENI",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 14,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": "radial-gradient(rgba(162, 119, 66, 1), rgba(255, 204, 75, 1) 66%)"
-      }
-    },
-    "collection-list": {
-      "type": "collection-list",
-      "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection-1",
-        "collection-2",
-        "collection-3"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_collections": false,
-        "collections_per_row_mobile": "1",
-        "collections_per_row": 3,
-        "show_progress_bar": false,
-        "subheading": "",
-        "title": "Collection list",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -272,7 +205,7 @@
           "type": "item",
           "settings": {
             "title": "100%",
-            "subheading": "Showcase a benefit of your product",
+            "subheading": "PURE",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -294,50 +227,10 @@
         "background": "",
         "background_gradient": "",
         "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
+        "heading_gradient": "radial-gradient(rgba(162, 119, 66, 1) 45%, rgba(217, 194, 132, 1) 65%, rgba(26, 26, 26, 0) 100%)",
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "image-with-text-overlay": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "1664424230c4756b0e-0": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "1664424230c4756b0e-1": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "1664424230c4756b0e-2": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "1664424230c4756b0e-0",
-        "1664424230c4756b0e-1",
-        "1664424230c4756b0e-2"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
       }
     },
     "media-grid": {
@@ -448,13 +341,13 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "title": "Avant / Après",
+        "content": "",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
-        "before_text": "Before",
-        "after_text": "After",
+        "before_text": "Avant",
+        "after_text": "Après",
         "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
@@ -473,7 +366,7 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "Share info about what your customers say about your products.",
+            "content": "Le miel pur, tel que la nature l’a créé.",
             "show_rating": false,
             "rating": 4
           }
@@ -483,7 +376,7 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "Or share content about your promotion, offers...",
+            "content": "Un nectar digne des rois.",
             "show_rating": false,
             "rating": 4
           }
@@ -505,79 +398,13 @@
         "logo_item_border": ""
       }
     },
-    "hot-spots": {
-      "type": "hot-spots",
-      "blocks": {
-        "1664424434f5b7d0e0-0": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 24,
-            "vertical_position": 70,
-            "horizontal_position_mobile": 24,
-            "vertical_position_mobile": 70,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        },
-        "1664424434f5b7d0e0-1": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 62,
-            "vertical_position": 14,
-            "horizontal_position_mobile": 62,
-            "vertical_position_mobile": 14,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        },
-        "1664424434f5b7d0e0-2": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 83,
-            "vertical_position": 75,
-            "horizontal_position_mobile": 83,
-            "vertical_position_mobile": 75,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "1664424434f5b7d0e0-0",
-        "1664424434f5b7d0e0-1",
-        "1664424434f5b7d0e0-2"
-      ],
-      "settings": {
-        "full_width": true,
-        "title": "",
-        "content": "",
-        "button_text": "",
-        "button_url": "",
-        "desktop_text_position": "place-self-start text-start",
-        "image_background": "",
-        "image_background_gradient": "",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "overlay_text_color": "#ffffff",
-        "overlay_button_background": "",
-        "overlay_button_text_color": "",
-        "hot_spot_dot_background": "#ffffff",
-        "hot_spot_dot_text_color": "#000000",
-        "hot_spot_content_background": "#ffffff",
-        "hot_spot_content_text_color": "#000000",
-        "hot_spot_content_opacity": 90,
-        "hot_spot_content_blur_radius": 3
-      }
-    },
     "multiple-images-with-text": {
       "type": "multiple-images-with-text",
       "blocks": {
         "1664424486a2b084ab-0": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_10_sept._2025_00_14_15.png",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Heading 1",
@@ -766,16 +593,13 @@
   },
   "order": [
     "slideshow",
-    "image-link-blocks",
     "scrolling-text",
-    "collection-list",
+    "image-link-blocks",
     "featured-collection",
     "impact-text",
-    "image-with-text-overlay",
     "media-grid",
     "before-after-image",
     "press",
-    "hot-spots",
     "multiple-images-with-text",
     "featured-product",
     "faq"
