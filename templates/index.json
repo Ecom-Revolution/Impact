@@ -485,7 +485,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "",
+        "product": "miel-de-yemen",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -561,10 +561,10 @@
     "featured-collection",
     "impact-text",
     "media-grid",
+    "featured-product",
     "before-after-image",
     "press",
     "multiple-images-with-text",
-    "featured-product",
     "faq"
   ]
 }
