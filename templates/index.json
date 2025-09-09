@@ -217,7 +217,8 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/ChatGPT_Image_10_sept._2025_a_00_40_01.png",
+            "title": "Un Miel irresistible",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -232,13 +233,14 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 60
           }
         },
         "item-2": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/ChatGPT_Image_10_sept._2025_00_14_15.png",
+            "title": "Pur à 100 %",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -253,13 +255,14 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 60
           }
         },
         "item-3": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/ChatGPT_Image_10_sept._2025_00_14_15.png",
+            "title": "Rare à 100 %",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -274,36 +277,14 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "29246d34-c6e0-4373-84f6-b15e57736a00": {
-          "type": "image",
-          "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 60
           }
         }
       },
       "block_order": [
         "item-1",
         "item-2",
-        "item-3",
-        "29246d34-c6e0-4373-84f6-b15e57736a00"
+        "item-3"
       ],
       "settings": {
         "full_width": true,
@@ -387,8 +368,8 @@
             "image": "shopify://shop_images/ChatGPT_Image_10_sept._2025_00_14_15.png",
             "image_rotation_degrees": -2,
             "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "🌟 L’or liquide du Yémen",
+            "content": "<p>Issu des montagnes préservées du Yémen, notre miel rare est reconnu pour sa pureté et son goût raffiné. Chaque pot incarne un savoir-faire ancestral et une richesse naturelle inégalée, offrant une expérience gustative unique.</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -398,8 +379,8 @@
           "settings": {
             "image_rotation_degrees": 1.5,
             "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "✨ Le miel d’exception à votre portée",
+            "content": "<p>Plus qu’un miel, <strong>L’Or du Yémen</strong> est un symbole de luxe et d’authenticité. Sa texture onctueuse, sa couleur dorée et ses arômes profonds en font un nectar recherché par les connaisseurs du monde entier. Un véritable trésor pour la santé et le plaisir.</p>",
             "button_url": "",
             "button_text": ""
           }
